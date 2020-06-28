@@ -17,10 +17,16 @@ Da ich wie bereits erwähnt, zumindest auf dem Desktop-Rechner, immer auf Linux 
 Der Befehl zum Starten war dann letzlich folgender:
 
 ```bash
-rdesktop-vrdp -g 100% ml-lab-1442cd48-fa24-4b5c-afdd-1ed4bb8bcb3d.northeurope.cloudapp.azure.com:54613
+$ rdesktop-vrdp -g 100% ml-lab-1442cd48-fa24-4b5c-afdd-1ed4bb8bcb3d.northeurope.cloudapp.azure.com:54613
 ```
 
-Im xfce-Desktop lässt sich unter Erscheinungsbild–>Einstellungen noch die Fensterskalierung auf “2x” setzen, was ein sehr annehmbares Resultat liefert – zumindest was die Auflösung betrifft. Die Performance ist nach vor sehr langsam und ruckelig, was natürlich nicht weiters überrascht. Deshalb hatte ich es mir zum Ziel gesetzt, soviele Programme und Installationen aus dem Unterricht direkt auf meinen Rechner nativ zu installieren, was nicht immer ganz glückte, wie wir noch sehen werden.
+Im xfce-Desktop lässt sich unter Erscheinungsbild–>Einstellungen noch die Fensterskalierung auf “2x” setzen, was ein sehr annehmbares Resultat liefert – zumindest was die Auflösung betrifft. Die Performance ist nach vor sehr langsam und ruckelig, was natürlich nicht weiter überrascht. Deshalb hatte ich es mir zum Ziel gesetzt, soviele Programme und Installationen aus dem Unterricht direkt auf meinen Rechner nativ zu installieren, was nicht immer ganz glückte, wie wir noch sehen werden.
+
+Ich konnte es dann auch nicht lassen, noch kurz die SSH-Variante auszuprobieren: 
+
+![](Sitzung01.assets/ssh-verbindung.png)
+
+Klappt prima!
 
 #### Grundlagen der Unix Shell
 
@@ -30,7 +36,15 @@ Soviel steht fest. Sie ist immens mächtig – ja, man kann sich das System sehr
 
 Im Unterricht machen wir also einen kleinen Exkurs in die Welt der CLI und manch einer hörte Begriffe wie *ls* oder *cd* zum ersten Mal. Ich kam zum Glück schon relativ früh mit der CLI und Linux in Kontakt, weil ich als Student in einer WG in Argentinien dringend WLAN brauchte und der Vermieter keinen Router in unserer Wohnung hatte – der Rest der Geschichte, naja, den lassen wir Geschichte sein ;-)
 
-Herr Lohmeier hat uns auf die Seite [https://librarycarpentry.org/lc-shell/](https://librarycarpentry.org/lc-shell/) verwiesen, wo es tolle Übungen zur Shell gibt. Ich kannte sie selber nicht und hatte nicht so viel Zeit mich damit auseinaderzusetzen. Ist aber auf jeden Fall “ge-bookmarked”…
+Herr Lohmeier hat uns auf die Seite [https://librarycarpentry.org/lc-shell/](https://librarycarpentry.org/lc-shell/) verwiesen, wo es tolle Übungen zur Shell gibt. Ich kannte sie selber noch nicht. Wir hatten bereits während des Unterrichts Zeit, uns damit auseinanderzusetzen. Das erste Kapitel [Navigating the filesystem](https://librarycarpentry.org/lc-shell/02-navigating-the-filesystem/index.html) konnte ich zum Glück getrost auslassen, da mir die Befehle bereits alle bekannt waren. Nichtsdestotrotz, schon ab Lektion 2 [Working with files and directories](https://librarycarpentry.org/lc-shell/03-working-with-files-and-folders/index.html) gab es dann was zu lernen: *head* und *tail* zeigen einen die letzten 10 Zeilen einer Datei an. Das kann definitiv nützlich sein, wenn man mal kurz einen Blick in ein sehr langes Dokument werfen will und man weiss, dass man nur den Anfang oder das Ende sehen will. Ansonsten gibt es ja immer noch *cat* oder das etwas flexiblere *less*. 
+
+Ebenfalls neu und sehr spannend für mich war das Kapitel 5 [Counting and mining with the shell](https://librarycarpentry.org/lc-shell/05-counting-mining/index.html), das uns den Befehl *wc* (word count) näher brachte. Wer jetzt denkt, das kann ja nur Wörter zählen, hat sich geschnitten. Anhand verschiedener Flags (Parametern) lassen sich gerade in Tabellen basierten Dateien wie .csv oder .tsv bspw. die Dateien finden, mit den wenigsten Zeilen, wenn wir mit einer Pipe (“|”) das Resultat noch an *sort* und *head* weiterleiten. Nice!
+
+```bash
+$ wc -l *.tsv | sort -n | head -n 1
+```
+
+
 
 ####  Versionskontrolle mit Git
 
