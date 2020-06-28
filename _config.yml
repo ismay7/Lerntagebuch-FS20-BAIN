@@ -9,3 +9,5 @@ include:
   - Sitzung03.md
   - Sitzung04.md
   - Sitzung05.md
+
+theme: jekyll-theme-minimal
