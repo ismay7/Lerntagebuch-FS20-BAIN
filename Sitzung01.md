@@ -45,7 +45,6 @@ $ wc -l *.tsv | sort -n | head -n 1
 ```
 
 
-
 ####  Versionskontrolle mit Git
 
 Git, oh schönes Git…
