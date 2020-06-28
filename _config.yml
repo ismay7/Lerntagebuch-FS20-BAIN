@@ -1,0 +1,11 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - Sitzung01.md
+  - Sitzung02.md
+  - Sitzung03.md
+  - Sitzung04.md
+  - Sitzung05.md
