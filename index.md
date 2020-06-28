@@ -9,3 +9,8 @@ Danach erfolgen persönliche Eindrücke und die Ausandersetzung mit den betracht
 
 Ich wünsche viel Vergnügen beim Lesen!
 
+### Sitzungen (Blogeinträge)
+
+[Sitzung 1, 13.03.20](Sitzung01.md)
+
+ 
