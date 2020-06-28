@@ -9,8 +9,14 @@ Danach erfolgen persönliche Eindrücke und die Ausandersetzung mit den betracht
 
 Ich wünsche viel Vergnügen beim Lesen!
 
-### Sitzungen (Blogeinträge)
+### Übersicht Sitzungen (Blogeinträge):
 
-[Sitzung 1, 13.03.20](Sitzung01.md)
+[Sitzung 1, 13.03.20](Sitzung01.md) 
 
- 
+[Sitzung 2, 03.04.20](Sitzung02.md) 
+
+[Sitzung 3, 25.04.20](Sitzung03.md) 
+
+[Sitzung 4, 05.06.20](Sitzung04.md)
+
+[Sitzung 5, 06.06.20](Sitzung05.md) 
