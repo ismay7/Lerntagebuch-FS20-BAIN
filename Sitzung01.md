@@ -10,7 +10,7 @@ Nach ein paar ersten technischen Abklärungen haben wir uns daran  gemacht, eine
 
 Wir melden uns also mit unserem Microsoft-Account an und finden unsere assoziierten virtuellen Maschinen unter [ https://labs.azure.com]( https://labs.azure.com). Von dort aus können wir die Maschine entfernt hochfahren. Das Einloggen und Anzeigen des Systems erfolgt dann entweder per SSH im CLI (Command Line Interface) oder grafisch über das Remote Desktop-Protokoll. 
 
-<img src="Sitzung01.assets/image-20200628150002020-1593358939425.png" alt="Azure Lab Services" style="zoom: 33%;" />
+<img src="Sitzung01.assets/image-20200628150002020-1593358939425.png" alt="Azure Lab Services" style="width: 50%;" />
 
 Da ich wie bereits erwähnt, zumindest auf dem Desktop-Rechner, immer auf Linux arbeite, haben sich bei mir verschiedene Fragen zur Handhabung dieser VM gestellt bzw. ich habe verschiedene Zugriffsmöglichkeiten getestet. Zum einen gibt es die bekannteste Remote-Desktop-Lösung für Linux «[Remmina](https://remmina.org/)». Da ich auf einem UHD-Bildschirm arbeite war die Auflösung der VM leider immer ätzend klein (600x800 ca.), was ich auf die Schnelle leider auch nicht umstellen konnte. Deshalb versuchte ich mich noch mit einem CLI-Programm names *rdesktop*, das die VM einfach per Befehl aus dem Terminal startet. Ich habe dazu ein kleines Startskript geschrieben, das über eine .desktop-Datei dann ausgeführt wird. Der einzige Befehls-Parameter, den ich als Flag noch hinzugefügt hatte war “-g 100%”, was die Fenstergeometrie auf 100% skaliert und somit fast Fullscreen entspricht. 
 
@@ -24,7 +24,7 @@ Im xfce-Desktop lässt sich unter Erscheinungsbild–>Einstellungen noch die Fen
 
 Ich konnte es dann auch nicht lassen, noch kurz die SSH-Variante auszuprobieren: 
 
-![](Sitzung01.assets/ssh-verbindung.png)
+![SSH-Verbindung](Sitzung01.assets/ssh-verbindung.png)
 
 Klappt prima!
 
