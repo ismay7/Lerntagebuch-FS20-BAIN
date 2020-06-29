@@ -49,7 +49,7 @@ Offizielle Website an der Library of Congress: [EAD](https://www.loc.gov/ead/)
 
 ## Installation und Konfiguration von ArchivesSpace
 
-Da mir das System auf dem Azure Lab Remote Desktop hier wieder zu langsam war, habe ich ArchivesSpace auf dem eigenen Rechner installiert. Dieses Mal war es jedoch wesentlich einfacher, da letztendlich nur das Java Runtime Environment 8 als Abhängigkeit installiert werden musste (*jre8-openjdk-headless* für Arch Linux basierte Distros). Ich installierte die Software also direkt in meiner Manjaro-Distribution. Der Rest der Installation besteht aus dem Herunterladen und Entpacken eines Zip-Archivs. Danach kann das Ganze via 
+Da mir das System auf dem Azure Lab Remote Desktop hier wieder zu langsam war, habe ich ArchivesSpace auf dem eigenen Rechner installiert. Dieses Mal war es jedoch wesentlich einfacher, da letztendlich nur das Java Runtime Environment 8 als Abhängigkeit installiert werden musste (*jre8-openjdk-headless* für Arch Linux basierte Distros). Ich installierte die Software also direkt und lokal in meiner Manjaro-Distribution. Der Rest der Installation besteht aus dem Herunterladen und Entpacken eines Zip-Archivs. Danach kann das Ganze via 
 
 ```
 $ ./archivesspace.sh
@@ -65,7 +65,11 @@ im entsprechenden Verzeichnis über das Shell-Skript gestartet werden. Da ich au
 
 *Neues Repository in ArchivesSpace anlegen*
 
+Auch in ArchivesSpace unternehmen wir wieder einige Versuche unterschiedliche Records anzulegen. Nachdem in einem ersten Schritt ein Repository angelegt werden muss, können danach auch einzelne Dokumente darin angelegt werden. Nach erfolgreicher Veröffentlichung können wir auch eine Suche im öffentlichen Interface unter localhost:8081 bzw. in meinem Fall localhost:8071 ausführen. 
 
+![](Sitzung03.assets/Screenshot from 2020-06-29 04-27-15.png)
+
+Die Ausgestaltung des Interface überzeugt mich hier sogar noch etwas mehr als dies bei Koha der Fall war. Da ich mich mit der Archivwissenschaft trotz dem Studium kaum auskenne, fällt es mir jedoch schwer etwas über die Qualität der Software auszusagen. Die einfache portable Installation und die Schnittstelle überzeugen auf jeden Fall schon mal und ich könnte mir bestimmt vorstellen, damit zu arbeiten. 
 
 ## Installation und Konfiguration von DSpace
 
