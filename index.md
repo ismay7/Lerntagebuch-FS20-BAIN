@@ -1,13 +1,17 @@
 # BAIN FS20 Lerntagebuch
 
-### Willkommen im Lerntagebuch des Fachs Bibliotheks- und Archivinformatik (BAIN)
+### Willkommen in meinem Lerntagebuch des Fachs Bibliotheks- und Archivinformatik (BAIN)
 
-Mein Name ist Maximilian Grüninger und ich berichte in diesem Blog über meine Erfahrungen während der Lerneinheiten des Fachs.
+Mein Name ist Maximilian Grüninger und ich berichte in diesem Blog über meine Erfahrungen während der Lerneinheiten des Fachs «Bibliotheks- und Archivinformatik» (BAIN) während des Frühlingssemesters 2020 an der Fachhochschule Graubünden (FHGR).
 
-Der Blog ist in fünf abgehaltene Sitzungen aufgeteilt. Zu jedem Eintrag gibt es eine kurze Einführung, die den Inhalt zusammenfasst.
-Danach erfolgen persönliche Eindrücke und die Ausandersetzung mit den betrachteten Themen. 
+Der Blog ist in fünf abgehaltene Sitzungen aufgeteilt. Jeder Eintrag besteht aus den wichtigsten, behandelten Themen, wobei – je nach persönlichem Interesse – die Gewichtung und der Umfang unterschiedlich ausfällt.
+Es sind stets persönliche Eindrücke und Ansichten und meine eigene Auseinandersetzung mit den betrachteten Themen. Die Links zu den Sitzungen sind unten zusammengefasst und auf jeder Seite erneut aufgeführt.
 
-Ich wünsche viel Vergnügen beim Lesen!
+### Motivation, Erfahrung und Erwartungen
+
+
+
+
 
 ### Übersicht Sitzungen (Blogeinträge):
 
@@ -20,3 +24,5 @@ Ich wünsche viel Vergnügen beim Lesen!
 [Sitzung 4, 05.06.20](Sitzung04.md)
 
 [Sitzung 5, 06.06.20](Sitzung05.md) 
+
+Ich wünsche viel Vergnügen beim Lesen!
