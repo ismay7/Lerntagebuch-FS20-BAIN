@@ -51,9 +51,9 @@ Git, oh schönes Git…
 
 Ja, Git und ich kennen uns schon etwas länger. So richtig innig wurde es aber erst dieses Jahr, als wir in einem anderen Fach (DGUI: Dynamic Graphical User Interfaces) offiziell damit arbeiten mussten für eine Projektarbeit. Und da es mir eigentlich sehr viel Spass macht, habe ich mich auch dazu entschieden, meine Blogs quasi last Minute auf eine Github Page zu verschieben, da die Blogs ohnehin schon in Markdown geschrieben waren. Und das Zusammenspiel von GitHub, Markdown und erweitert durch Jekyll ist bekanntlich fliessend und eine wahrliche Freude.
 
-Überhaupt, gefiel es mir sehr, hier wieder mit Markdown arbeiten zu können, das ich zwar schon einigermassen kannte, aber mir diesem Zusammenhang doch nochmals neue Erkenntnisse liefern konnte.
+Überhaupt, gefiel es mir sehr, hier wieder mit Markdown arbeiten zu können, das ich zwar schon einigermassen kannte, aber mir in diesem Zusammenhang doch nochmals neue Erkenntnisse liefern konnte.
 
-Ich habe das Programm [Typora](https://typora.io/) entdeckt: Markdown-Editoren waren ja bekanntlich – und ganz naturgemäss – zweispaltig: links das Markup, rechts die kompilierte Ausgabe. Typora schafft es diese Ansichten zu vereinen und somit einen sauberen und aufgeräumten Schreibplatz zu schaffen, der nur dann sich zum Editor wandelt, wenn man es braucht. 
+Ich habe das Programm [Typora](https://typora.io/) entdeckt: Markdown-Editoren waren ja bekanntlich – und ganz naturgemäss – zweispaltig: links das Markup, rechts die kompilierte Ausgabe. Typora schafft es diese Ansichten zu vereinen und somit einen sauberen und aufgeräumten Schreibplatz zu schaffen, der nur dann sich zum Editor wandelt, wenn man es braucht.
 
 ------
 
