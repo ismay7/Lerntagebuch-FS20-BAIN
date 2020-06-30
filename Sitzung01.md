@@ -49,4 +49,11 @@ $ wc -l *.tsv | sort -n | head -n 1
 
 Git, oh schönes Git…
 
-Ja, Git und ich kennen uns schon etwas länger. So richtig innig wurde es aber erst dieses Jahr, als wir in einem anderen Fach (DGUI: Dynamic Graphical User Interfaces) offiziell damit arbeiten mussten für eine Projektarbeit. Und da es mir eigentlich sehr viel Spass macht, habe ich mich auch dazu entschieden, meine Blogs last Minute auf eine Github Page zu verschieben, da die Blogs ohnehin schon in Markdown geschrieben waren. Und das Zusammenspiel von GitHub, Markdown und erweitert durch Jekyll ist bekanntlich fliessend. 
+Ja, Git und ich kennen uns schon etwas länger. So richtig innig wurde es aber erst dieses Jahr, als wir in einem anderen Fach (DGUI: Dynamic Graphical User Interfaces) offiziell damit arbeiten mussten für eine Projektarbeit. Und da es mir eigentlich sehr viel Spass macht, habe ich mich auch dazu entschieden, meine Blogs last Minute auf eine Github Page zu verschieben, da die Blogs ohnehin schon in Markdown geschrieben waren. Und das Zusammenspiel von GitHub, Markdown und erweitert durch Jekyll ist bekanntlich fliessend.
+
+------
+
+<div class="site-nav">
+<a href="./index.html">< vorheriger Blog</a>
+<a href="./Sitzung02.html">nächster Blog ></a>
+</div>
