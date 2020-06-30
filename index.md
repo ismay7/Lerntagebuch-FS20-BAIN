@@ -31,7 +31,7 @@ In diesem Sinne: Auf ins Gefecht!
 
 [Sitzung 5, 06.06.20](Sitzung05.md) 
 
-[Schlussbetrachtung](Z-Schlussbetrachtung.md) 
+[Schlussbetrachtung](./Z-Schlussbetrachtung.html) 
 
 Ich wünsche viel Vergnügen beim Lesen!
 
