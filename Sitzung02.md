@@ -59,3 +59,8 @@ Es wird in Zukunft bestimmt interessant zu sehen sein, was aus dem wohl etablier
 
 Alles in allem, war es sehr spannend, mal ein solches Tool “von innen” kennenzulernen – gerade auch als Nicht-Bibliothekar. 
 
+------
+<div class="site-nav">
+<a href="./Sitzung01.html">< vorheriger Blog</a>
+<a href="./Sitzung03.html">nächster Blog ></a>
+</div>

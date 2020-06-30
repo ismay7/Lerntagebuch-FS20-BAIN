@@ -73,3 +73,10 @@ Die Ausgestaltung des Interface überzeugt mich hier sogar noch etwas mehr als d
 
 ## Installation und Konfiguration von DSpace
 
+
+
+------
+<div class="site-nav">
+<a href="./Sitzung02.html">< vorheriger Blog</a>
+<a href="./Sitzung04.html">nächster Blog ></a>
+</div>
