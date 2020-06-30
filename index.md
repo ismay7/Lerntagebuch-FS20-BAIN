@@ -19,7 +19,7 @@ In diesem Sinne: Auf in’s Gefecht!
 
 ### Übersicht Sitzungen (Blogeinträge):
 
-[Einleitung | Startseite](./index.md)
+[Einleitung/Startseite](./index.md)
 
 [Sitzung 1, 13.03.20](Sitzung01.md) 
 
