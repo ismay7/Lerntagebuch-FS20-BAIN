@@ -13,11 +13,13 @@ Wenn ich den Begriff «Bibliotheks- und Archivinformatik» mal in seinen Komposi
 
 Neben dem Studium arbeite ich gemeinsam mit meinem Vater am Restaurantführer «[Essen gehn!](www.essengehn.ch)» als Verleger oder Herausgeber. Und wenn das gerade nicht «Saison» hat, erstelle oder betreue ich Webseiten für Kleinunternehmen oder Selbstständige als Webdesign-Freelancer. 
 
-Meine Erwartungen an das Seminar sind deshalb nicht besonders hoch, aber ich bin grundsätzlich immer offen und lerne gerne was Neues. Als ich gehört hatte, dass Linux eine wichtige Rolle spielen soll, horchte ich natürlich sehr auf, denn – I 💜 Linux! Zuhause auf dem Desktop-PC läuft die Distribution Manjaro in der GNOME-Ausgabe und da freut es mich natürlich immer, wenn das endlich auch mal eine Rolle spielen darf.
+Meine Erwartungen an das Seminar sind deshalb nicht besonders hoch, aber ich bin grundsätzlich immer offen und lerne gerne was Neues. Als ich gehört hatte, dass GNU/Linux eine wichtige Rolle spielen soll, horchte ich natürlich sehr auf, denn – I 💜 Linux! Zuhause auf dem Desktop-PC läuft die Distribution Manjaro in der GNOME-Ausgabe und da freut es mich natürlich immer, wenn das endlich auch mal eine Rolle spielen darf.
 
 In diesem Sinne: Auf in’s Gefecht!
 
 ### Übersicht Sitzungen (Blogeinträge):
+
+[Einleitung | Startseite](./index.md)
 
 [Sitzung 1, 13.03.20](Sitzung01.md) 
 
@@ -28,5 +30,7 @@ In diesem Sinne: Auf in’s Gefecht!
 [Sitzung 4, 05.06.20](Sitzung04.md)
 
 [Sitzung 5, 06.06.20](Sitzung05.md) 
+
+[Schlussbetrachtung](Z-Schlussbetrachtung.md) 
 
 Ich wünsche viel Vergnügen beim Lesen!
