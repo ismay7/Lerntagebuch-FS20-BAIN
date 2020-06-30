@@ -4,10 +4,12 @@ relative_links:
   enabled: true
   collections: true
 include:
+  - index.md
   - Sitzung01.md
   - Sitzung02.md
   - Sitzung03.md
   - Sitzung04.md
   - Sitzung05.md
+  - Z-Schlussbetrachtung.md
 
 theme: jekyll-theme-minimal
