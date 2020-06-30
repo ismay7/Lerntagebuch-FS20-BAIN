@@ -1,4 +1,4 @@
-# BAIN FS20 Lerntagebuch
+# Einleitung
 
 ### Willkommen in meinem Lerntagebuch des Fachs Bibliotheks- und Archivinformatik (BAIN)
 
@@ -15,7 +15,7 @@ Neben dem Studium arbeite ich gemeinsam mit meinem Vater am Restaurantführer «
 
 Meine Erwartungen an das Seminar sind deshalb nicht besonders hoch, aber ich bin grundsätzlich immer offen und lerne gerne was Neues. Als ich gehört hatte, dass GNU/Linux eine wichtige Rolle spielen soll, horchte ich natürlich sehr auf, denn – I 💜 Linux! Zuhause auf dem Desktop-PC läuft die Distribution Manjaro in der GNOME-Ausgabe und da freut es mich natürlich immer, wenn das endlich auch mal eine Rolle spielen darf.
 
-In diesem Sinne: Auf in’s Gefecht!
+In diesem Sinne: Auf ins Gefecht!
 
 ### Übersicht Sitzungen (Blogeinträge):
 
@@ -34,3 +34,4 @@ In diesem Sinne: Auf in’s Gefecht!
 [Schlussbetrachtung](Z-Schlussbetrachtung.md) 
 
 Ich wünsche viel Vergnügen beim Lesen!
+
