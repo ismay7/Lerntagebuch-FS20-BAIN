@@ -73,7 +73,47 @@ Die Ausgestaltung des Interface überzeugt mich hier sogar noch etwas mehr als d
 
 ## Installation und Konfiguration von DSpace
 
+Am Nachmittag haben wir uns im Rahmen des Themas «Repository-Software für Publikationen und Forschungsdaten» mit [Open Access](https://de.wikipedia.org/wiki/Open_Access) und [Open Data](https://de.wikipedia.org/wiki/Open_Data) beschäftigt und dazu passend mit der [Demo-Installation von DSpace](https://demo.dspace.org/) gearbeitet. 
 
+Die «Open-Access-Thematik» hatten wir glücklicherweise bereits in vorangegangen Modulen als Unterrichtsstoff, sodass ich diesbezüglich glücklicherweise auf keine allzu grossen Wissenslücken stossen musste. Von DSpace hatte ich damals schon gehört, damit gearbeitet jedoch noch nie. Deshalb hatte ich mich grundsätzlich darüber gefreut, hier mal Einblick zu erhalten.
+
+Auf nach DSpace also! Eine interessante Dokumentation bzw. ein Wiki findet sich übrigens [hier](https://wiki.lyrasis.org/display/DSPACE).
+
+Ich habe, von den beiden zur Verfügung stehenden GUI-Varianten die [JSPUI(JSP)](https://demo.dspace.org/jspui/) gewählt, da es visuell einen etwas ansprechenderen Look vermittelte. Anmelden im Demo-Account kann man sich über die folgenden Rollen:
+
+- Site Administrator: `dspacedemo+admin@gmail.com`
+- Community Administrator: `dspacedemo+commadmin@gmail.com`
+- Collection Administrator: `dspacedemo+colladmin@gmail.com`
+- Submitter: `dspacedemo+submit@gmail.com`
+- Passwort immer: `dspace`
+
+Wir nehmen natürlich das «Vollpaket» und melden uns als Site Administrator an ;-)
+
+Unser erstes Ziel besteht darin eine Community anzulegen und darin eine erste Collection.
+
+![](Sitzung03.assets/Screenshot from 2020-06-30 13-59-49.png)
+
+Die Community bildet dabei gewissermassen die institutionelle Zuordnung der zu veröffentlichenden Forschungsdaten. Wir schaffen uns also einen Container für unser Goldfisch-Departement. 
+
+Darin enthalten eröffnen wir uns die erste Collection. Wir wählen dazu noch ein paar Optionen mehr aus, damit wir auch mehr vom Funktionsumfang erfahren.
+
+![](Sitzung03.assets/Screenshot from 2020-06-30 14-01-20.png)
+
+Wir haben nun auch die Möglichkeit der Collection bereits vordefinierte DC-Felder (Dublin Core Metadaten-Standard) zuzuordnen.
+
+![](Sitzung03.assets/Screenshot from 2020-06-30 14-10-03.png)
+
+Nun ist unsere Collection erstellt und wir können damit beginnen, diese zu befüllen.
+
+![](Sitzung03.assets/Screenshot from 2020-06-30 14-12-36.png)
+
+Das Interface ist rundum selbsterklärend erstellt und optionale Parameter könne auch zu einem späteren Zeitpunkt noch ergänzt werden. Der File-Upload ebenfalls sehr intuitiv gestaltet. Man versteht hier langsam, weshalb DSpace einen so hohen Stellenwert bei Universitätsbibiotheken erreicht hat. Auch das Lizenz- und Nutzungsbestimmungsmanagement scheint hier sehr umfangreich und sorgfältig elaboriert worden zu sein, was natürlich auch unbedingt eine Anforderung ist, wenn es um Open-Access-Forschungsdaten geht.
+
+![](Sitzung03.assets/Screenshot from 2020-06-30 14-19-34.png)
+
+Wer bereits veröffentlichte Datensätze nach DSpace importieren will, kann das übrigens auch ganz einfach über die Angabe der DOI (Digital Object Identifier) machen. 
+
+Insbesondere toll in DSpace, ist unter anderem auch die Möglichkeit über eine [OAI-PMH](https://www.openarchives.org/pmh/)-Schnittstelle das Harvesting externer Systeme zu erlauben. So wäre bspw. eine Anzeige der auf DSpace veröffentlichten Daten über einen Harvester wie [BASE](https://www.base-search.net/) (Bielefeld Academic Search Engine) denkbar. 
 
 ------
 <div class="site-nav">
