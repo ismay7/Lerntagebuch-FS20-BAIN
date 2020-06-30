@@ -1,8 +1,8 @@
-# Sitzung 5
+# Schlussbetrachtung
 
 Datum: 06.06.2020
 
-### Thema: Schlussbetrachtung
+
 
 Das Modul BAIN bei Hern Lohmeier hat mir grundsätzlich gut gefallen. Ich bin zwar weder Bibliothekar, noch Archivar, doch die Arbeit an und mit Linux und gewissen Tools wie VuFind oder SPARQL haben mich trotzdem sehr interessiert.
 
